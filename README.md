@@ -1,2 +1,2 @@
 # demo1
-test repo
+Setting up my git client
